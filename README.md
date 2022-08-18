@@ -1,3 +1,3 @@
 # ARDUINOxPYTHON
 
-Project of Python app used to control servo by Arduino Uno.
+Project of Python Tkinter app used to control servomechanism by Arduino Uno with Serial communication.
