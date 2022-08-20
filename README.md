@@ -6,3 +6,7 @@ Project of Python Tkinter app used to control servomechanism by Arduino Uno with
 
 ## Wiring diagram
 
+![alt text](https://github.com/gzych98/ARDUINOxPYTHON/blob/main/img1.png?raw=true)
+
+
+
